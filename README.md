@@ -4,3 +4,5 @@
 # Coordinates
 
 C# tools for Lambert/WGS84
+
+[![](https://codescene.io/projects/3689/status.svg) Get more details at **codescene.io**.](https://codescene.io/projects/3689/jobs/latest-successful/results)
